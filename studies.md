@@ -8,7 +8,7 @@ Welcome to our flipped-classroom session, where you'll review foundational conce
 
 Please complete the following activities before our session.
 
-### 📝 Task 1: The "Why" of Data Testing (15 Minutes)
+### 📝 Task 1: The "Why" of Data Testing (20 Minutes)
 
 **Activity:** Read the **"Part 1 \- Hands-on with Data Testing"** and **"Part 2 \- Testing Dbt"** sections in the provided lesson.md file. Focus on understanding the role of data validation in a modern data stack.
 
@@ -32,10 +32,10 @@ Please complete the following activities before our session.
 
 * Look at the code cell using ExpectColumnMaxToBeBetween. If you had to write a rule for a "Customer Email" column, what expectation might you use?  
 * How does a "Validation Definition" connect your data to your rules?
+ 
+### 📝 Task 3 (Optional): Orchestration Conceptual Check
 
-### 📝 Task 3: Orchestration Conceptual Check (10 Minutes)
-
-**Activity:** Briefly skim the **"Extra \- Hands-on with Orchestration II"** section in lesson.md.
+**Activity:** Briefly skim the **"Extra \- Hands-on with Orchestration"** sections in lesson.md.
 
 **Guiding Questions:**
 
